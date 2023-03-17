@@ -2,7 +2,8 @@
     <p>Simple Prompt Generator</p>
 </h2>
 <h3 align="center">
-    <p>Simple prompt generation script for Midjourney, DALLe, Stable and Disco diffusion and etc neural networks.</p>
+    <p>
+Script de geração de prompt simples para difusão Midjourney, DALLe, Stable e Disco e redes neurais etc.</p>
 </h3><br>
 <div  align="center">
 	<img style="display: inline-block, margin-right: 1%;" src='https://visitor-badge.glitch.me/badge?page_id=WiNE-iNEFF_Simple_Prompt_Generator&left_text=GithubVisitors' alt='visitor badge'><img style="display: inline-block;" src='https://visitor-badge.glitch.me/badge?page_id=WiNE-iNEFF_HF_Simple_Prompt_Generator&left_text=HuggingFaceVisitors' alt='visitor badge'>
@@ -82,7 +83,7 @@ Version 0.2:
 
 # <p align="center">For more example going on:</p>
 <h3 align="center">
-	<a href="https://twitter.com/wine_ineff" target='_blank'>Twitter</a><br>
-	<a href="https://www.instagram.com/wine_ineff" target='_blank'>Instagram</a><br>
+	<a href="https://twitter.com/jonsoldera" target='_blank'>Twitter</a><br>
+	<a href="https://www.instagram.com/midartai" target='_blank'>Instagram</a><br>
 	<a href="https://www.reddit.com/user/WiNE-iNEFF" target='_blank'>Reddit</a>
 </h3>
