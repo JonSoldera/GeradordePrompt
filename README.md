@@ -6,8 +6,7 @@
 Script de geração de prompt simples para difusão Midjourney, DALLe, Stable e Disco e redes neurais etc.</p>
 </h3><br>
 <div  align="center">
-	<img style="display: inline-block, margin-right: 1%;" src='https://visitor-badge.glitch.me/badge?page_id=WiNE-iNEFF_Simple_Prompt_Generator&left_text=GithubVisitors' alt='visitor badge'><img style="display: inline-block;" src='https://visitor-badge.glitch.me/badge?page_id=WiNE-iNEFF_HF_Simple_Prompt_Generator&left_text=HuggingFaceVisitors' alt='visitor badge'>
-</div>
+
 
 ## <p align="center">Começar</p>
 
