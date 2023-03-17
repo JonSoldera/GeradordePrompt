@@ -9,7 +9,7 @@ Script de geração de prompt simples para difusão Midjourney, DALLe, Stable e 
 	<img style="display: inline-block, margin-right: 1%;" src='https://visitor-badge.glitch.me/badge?page_id=WiNE-iNEFF_Simple_Prompt_Generator&left_text=GithubVisitors' alt='visitor badge'><img style="display: inline-block;" src='https://visitor-badge.glitch.me/badge?page_id=WiNE-iNEFF_HF_Simple_Prompt_Generator&left_text=HuggingFaceVisitors' alt='visitor badge'>
 </div>
 
-## <p align="center">Quick start</p>
+## <p align="center">Começar</p>
 
 You can download scripts from this repository and start in command line:
 ```
