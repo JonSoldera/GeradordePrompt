@@ -33,7 +33,8 @@ or try to use this <a href="https://wine-ineff.github.io/Simple_Prompt_Generator
         <li>Add <a href="https://huggingface.co/spaces/WiNE-iNEFF/HF_Simple_Prompt_Generator" target="_blank">Gradio Demo</a></li>
 </ul>
 
-
+## <p align="center">Update</p>
+	
 	<a href="https://twitter.com/jonsoldera" target='_blank'>Twitter</a><br>
 	<a href="https://www.instagram.com/midartai" target='_blank'>Instagram</a><br>
 	<a href="https://www.reddit.com/user/WiNE-iNEFF" target='_blank'>Reddit</a>
