@@ -34,10 +34,7 @@ or try to use this <a href="https://wine-ineff.github.io/Simple_Prompt_Generator
 </ul>
 
 # For more example going on:
-<p>
-	<a href="https://twitter.com/wine_ineff" target='_blank' style="color: blue;">Twitter</a><br>
-	<a href="https://www.instagram.com/wine_ineff" target='_blank' style="color: red;">Instagram</a><br>
-	<a href="https://www.reddit.com/user/WiNE-iNEFF" target='_blank' style="color: orange;">Reddit</a>
+
 <p align="center">
 	<a href="https://twitter.com/wine_ineff" target='_blank'>Twitter</a><br>
 	<a href="https://www.instagram.com/wine_ineff" target='_blank'>Instagram</a><br>
